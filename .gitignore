@@ -1,0 +1,4 @@
+*.gcode
+*~.skp
+AutoSave_*.skp
+
